@@ -22,8 +22,8 @@
 
 # Useful Websites
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Quick Start - React](https://react.dev/learn)
+- [Express - Hello World Example](https://expressjs.com/en/5x/starter/hello-world/)
 
 # Future Work
 
