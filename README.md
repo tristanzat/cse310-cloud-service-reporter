@@ -12,7 +12,7 @@ The program is run locally.
 
 I wrote this software to improve my understanding of SQL databases and how I could interact with them through an API.
 
-[Software Demo Video](http://youtube.com)
+[Software Demo Video](https://youtu.be/d4b6G3732GY)
 
 # Relational Database
 
